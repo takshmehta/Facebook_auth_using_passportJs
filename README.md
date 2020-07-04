@@ -13,7 +13,7 @@ morgan
 passport-facebook
 developers.facebook.com
 
-I would like to mention that I have created this project under the of Mr.Hitesh Choudhary{https://www.youtube.com/user/hiteshitube}.
+I would like to mention that I have created this project under the guidance of Mr.Hitesh Choudhary{https://www.youtube.com/user/hiteshitube}.
 
 Special thanks to these two youtube videos without which several configurations would have been impossible:
 For configuring Git and Vscode : https://youtu.be/Fk12ELJ9Bww
