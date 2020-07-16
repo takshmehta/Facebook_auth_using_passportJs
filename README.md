@@ -19,4 +19,4 @@ Special thanks to these two youtube videos without which several configurations 
 For configuring Git and Vscode : https://youtu.be/Fk12ELJ9Bww
 For deploying NodeJs in Heroku : https://youtu.be/72DYDMP09MM
 
-Ofcourse the project looks ugly but I can add some css later on.
+
